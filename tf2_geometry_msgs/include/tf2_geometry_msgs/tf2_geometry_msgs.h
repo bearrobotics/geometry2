@@ -44,7 +44,7 @@
 #include <geometry_msgs/PoseWithCovarianceStamped.h>
 #include <geometry_msgs/Wrench.h>
 #include <geometry_msgs/WrenchStamped.h>
-#include <kdl/frames.hpp>
+#include "frames.hpp"
 
 #include <array>
 
